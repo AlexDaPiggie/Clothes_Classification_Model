@@ -46,8 +46,8 @@ The baseline model is then experimented on differnt combination of preprocessing
 
 ### The best pipeline achieves around 0.886 on f1 and accuracy: 
 <p> 
-    <img src = 'Images/All_Performance.png' width = 45% alt = 'All Performance'> 
-    <img src = 'Images/Experiment_Confusion_Matrix.png' width = 25% alt = 'Confusion matrix'>
+    <img src = 'Images/All_Performance.png' width = 58% alt = 'All Performance'> 
+    <img src = 'Images/Experiment_Confusion_Matrix.png' width = 38% alt = 'Confusion matrix'>
 </p>
 (The error is fairly reasonable, see the notebook Data_Experiment.ipynb for more details)
 
@@ -60,7 +60,7 @@ In the notebook Modeling.ipynb, a range of machine learning models (linear, tree
 ### Histogram Gradient Boosting & Supported Vector Machine had best performance:
 
 <p> 
-    <img src = 'Images/Model_Selection.png' width = 45% alt = 'All Performance'> 
+    <img src = 'Images/Model_Selection.png' width = 55% alt = 'All Performance'> 
 </p>
 (See the notebook Modeling.ipynb for more details) 
 
@@ -69,8 +69,8 @@ The two models were fine-tuned on the shrinked dataset to reduce runtim and comp
 
 ### Optuna Objective Functions: 
 <p> 
-    <img src = 'Images/SVC_Objective.png' width = 45% alt = 'performance'> 
-    <img src = 'Images/HGB_Objective.png' width = 45% alt = 'performance'> 
+    <img src = 'Images/SVC_Objective.png' width = 48% alt = 'performance'> 
+    <img src = 'Images/HGB_Objective.png' width = 48% alt = 'performance'> 
 </p>
 
 ## Final Model
@@ -78,7 +78,7 @@ The two models were fine-tuned on the shrinked dataset to reduce runtim and comp
 
 ### Classification Report & Confusion Matrix: 
 <p> 
-    <img src = 'Images/SVC_CR.png' width = 45% alt = 'performance'> 
-    <img src = 'Images/SVC_CF.png' width = 45% alt = 'performance'> 
+    <img src = 'Images/SVC_CR.png' width = 48% alt = 'performance'> 
+    <img src = 'Images/SVC_CF.png' width = 48% alt = 'performance'> 
 </p>
 (See the notebook Modeling.ipynb for more details)
