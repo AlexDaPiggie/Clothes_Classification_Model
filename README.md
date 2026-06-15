@@ -1,5 +1,5 @@
 # Clothes Classification Model 
-This project's goal is to build a classifcation model on the Fashion MNIST dataset. Despite the main usecase of this dataset is to validate the performance of deep learning model, this project will only experiment on Machine Learning model, aiming to achieve over 90% accuracy.
+This project's goal is to build a classifcation model on the Fashion MNIST dataset. Despite the main usecase of this dataset is to validate the performance of Deel Learning models, this project will only experiment on Machine Learning models, with objecive is achieving over 90% accuracy.
 
 ## Project Overview 
 ```text
